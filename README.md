@@ -1,2 +1,2 @@
-# lily58pro
-Custom QMK firmware for Lily58 pro keyboard
+# Lily58 pro
+Custom QMK firmware build for Lily58 pro keyboard.
